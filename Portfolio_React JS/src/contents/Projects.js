@@ -49,7 +49,7 @@ class Projects extends Component {
           allowfullscreen
         ></iframe>
 
-<h1 className="subtopic">Weather Dashboard</h1>
+        <h1 className="subtopic">Weather Dashboard</h1>
         <iframe
           src="https://domenikos5.github.io/Weather-Dashboard/"
           allowtransparency="true"
@@ -63,6 +63,17 @@ class Projects extends Component {
         <h1 className="subtopic">Budget Tracker</h1>
         <iframe
           src="https://budget-app555.herokuapp.com/"
+          allowtransparency="true"
+          width="500"
+          height="500"
+          frameborder="0"
+          scrolling="no"
+          allowfullscreen
+        ></iframe>
+
+        <h1 className="subtopic">Note Taker</h1>
+        <iframe
+          src="https://floating-garden-38932.herokuapp.com/"
           allowtransparency="true"
           width="500"
           height="500"
