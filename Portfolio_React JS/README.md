@@ -1,4 +1,4 @@
-Portfolio using React JS.
+Portfolio/Resume Website using React JS.
 
 Clone or Download the project
 
