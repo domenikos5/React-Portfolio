@@ -8,10 +8,10 @@ Open Terminal
 
 Type the below commands
 
-$ cd Portfolio_Website_React JS
+$ cd Portfolio_React JS
 
 $ npm install
 
 $ npm start
 
-That's all !
+
