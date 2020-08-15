@@ -1,22 +1,24 @@
-import React, { Component } from 'react';
-
+import React, { Component } from "react";
 
 class About extends Component {
-    render() {
-        return (
-            <div className="condiv">
-            <h1 className="subtopic">About Me</h1>
-            <h4>Thanks for visiting my page.</h4>
-            <h1>I'm John de la Cruz</h1>
-            <h3>Full Stack Web <u>Developer</u> </h3>
-            <br></br>
-            <p> TETING 123 I s
-            </p>
-            
-            </div>
-            )
-        }
-    }
-    
-export default About
-    
+  render() {
+    return (
+      <div className="condiv">
+        <h1 className="subtopic">About Me</h1>
+
+        <p>
+          My name is John de la Cruz, a Full Stack Web Developer that's
+          constantly adapting
+          <br />
+          <br />
+          to the technologies of today in order to provide clients and their
+          target audiences
+          <br />
+          <br /> a unique, immersive and fun web experience.
+        </p>
+      </div>
+    );
+  }
+}
+
+export default About;
